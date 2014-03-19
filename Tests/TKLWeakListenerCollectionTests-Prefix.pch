@@ -1,0 +1,11 @@
+//
+//  TKLWeakListenerCollectionTest-Prefix.pch
+//  TKLWeakListenerCollectionTests
+//
+//  Created by Tobias Klonk on 19.03.14.
+//  Copyright (c) 2014 Tobias Klonk. All rights reserved.
+//
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#endif
